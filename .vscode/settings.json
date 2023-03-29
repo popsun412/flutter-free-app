@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "kubernetes": "*.yaml",
+        "https://json.schemastore.org/pubspec.json": "file:///Users/pyoseonkim/Desktop/p/p_project/pubspec.yaml"
+    }
+}
